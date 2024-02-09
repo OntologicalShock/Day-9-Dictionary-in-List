@@ -1,0 +1,2 @@
+This is a scratchpad to work through an Auditorium challenge for Day 9 of 100 Days of Code: The Complete Python Pro Bootcamp.
+My solution was different than Angela's, but I'm not sure it is any better or worse than hers.
